@@ -1,0 +1,14 @@
+/* Stylesheet */
+
+section img{
+	height: 300px;
+	cursor: pointer;
+}
+
+section li{
+	height: 40px;
+	width: 300px;
+	overflow: hidden;
+	list-style: none;
+}
+
